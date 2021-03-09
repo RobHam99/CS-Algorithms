@@ -1,2 +1,2 @@
 # CS-Algorithms
-Some computing science algorithms I have learned about
+Nothing here yet... will be about any Computing Science algorithms i learn about.
